@@ -10888,6 +10888,27 @@ p.lead {
   font-size: 0.8rem;
 }
 
+.custom-font-big-no-trans {
+  font-family: "Verdana", -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol", "Noto Color Emoji";
+  text-transform: none;
+  font-weight: 500;
+  font-size: 2.8rem;
+}
+
+.custom-font-no-trans {
+  font-family: "Verdanal", -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol", "Noto Color Emoji";
+  text-transform: none;
+  font-weight: 500;
+  font-size: 1.3rem;
+}
+
+.custom-font-sub-no-trans {
+  font-family: "Verdana", -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol", "Noto Color Emoji";
+  text-transform: none;
+  font-weight: 500;
+  font-size: 0.8rem;
+}
+
 #sideNav {
   padding-left: 1rem;
   padding-right: 1rem;
